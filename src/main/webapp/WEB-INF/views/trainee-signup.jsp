@@ -5,7 +5,7 @@
 <title>Insert title here</title>
 </head>
 	<body>
-		<h1>Frontend team lead : Chandu</h1>
+		<h1>Frontend team lead : Chandu 2317268</h1>
 		<h1><%=request.getAttribute("msg")%></h1>
 		<p>FirstName : <%=request.getAttribute("first_name")%> </p>
 		<p>LastName: <%=request.getAttribute("last_name")%> </p>
